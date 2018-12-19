@@ -1,0 +1,5 @@
+{
+    "expected_dialog": "app.web.open",
+    "intent_type": "app.web.open.intent",
+    "utterance": "open facebook"
+}
